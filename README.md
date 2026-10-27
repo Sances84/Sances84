@@ -4,5 +4,5 @@ Skills to programming: Anything like Scratch (also scratch mods), C# to unity ga
 doing use of AI like GPT and Gemini Flash series sometimes<br>
 running FOSS and proprietary uncommercial software company "OnlyLine software"<br>
 ## Sances84's FAQ
-1. What about proprietary software? Answer: You shall not pass!<br>
+1. What about proprietary software source codes and some stuff? Answer: You shall not pass!<br>
 2. Who learn you in C# unity game engine programming? Answer: Listing Unity Game Engine documentation around and visual studio IntelliSense thingy
