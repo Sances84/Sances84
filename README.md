@@ -8,4 +8,4 @@ Uploading C++ programs and fun programmer stuff sometimes.<br>
 ## Sances84's FAQ
 1. What about proprietary software source codes and some proprietary/personal thingies? Answer: You shall not pass!<br>
 2. Who learn you in C# unity game engine programming? Answer: Listing Unity Game Engine documentation around and visual studio IntelliSense thingy<br>
-3. What is your problem in multiplayer luanti gaming? Answer: Please leave me alone and shut up, i am had got scandal and false ban at end of july of 2026 so not wanna to say!
+3. What is your problem in multiplayer luanti gaming? Answer: Please leave me alone and shut up, i am had got scandal and ban by reason which it's isn't true at end of july of 2026 so not wanna to say!
